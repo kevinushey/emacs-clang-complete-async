@@ -1,7 +1,7 @@
 #ifndef _COMPLETION_SESSION_H_
 #define _COMPLETION_SESSION_H_
 
-
+#include <stdio.h>
 #include <clang-c/Index.h>
 
 
